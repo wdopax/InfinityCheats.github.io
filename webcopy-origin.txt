@@ -1,0 +1,588 @@
+Uri: https://cartelhax.com/
+File Name: C:\Downloaded Web Sites\cartelhax.com\index.htm
+Content Type: text/html
+
+Uri: https://cartelhax.com/advantages/aimbot.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\aimbot.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/advantages/nube.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\nube.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/advantages/ojo.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\ojo.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/advantages/shop.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\shop.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/advantages/support.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\support.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/advantages/tv.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\advantages\tv.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/css/00111.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\00111.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/00111.css?v=4.5
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\00111-1.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/01114.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\01114.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/01114.css?v=4.5 rel=
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\01114-1.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/0114.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\0114.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/0114.css?v=4.5
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\0114-1.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/style.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\style.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/css/style.css?v=4.5
+File Name: C:\Downloaded Web Sites\cartelhax.com\css\style-1.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\index.htm
+Content Type: text/html
+
+Uri: https://cartelhax.com/es/css/00111.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\css\00111.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/css/01114.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\css\01114.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/css/0114.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\css\0114.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/css/style.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\css\style.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/js/main.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/lib/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/lib/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\easing\easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/es/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://cartelhax.com/es/lib/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/es/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/superfish/hoverIntent.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\superfish\hoverIntent.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/superfish/superfish.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\superfish\superfish.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/venobox/venobox.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/es/lib/venobox/venobox.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\venobox\venobox.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/es/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\es\lib\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/js/main.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/juegos/bloodhunt.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\juegos\bloodhunt.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/juegos/discord.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\juegos\discord.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/juegos/freefire.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\juegos\freefire.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/lib/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/lib/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\easing\easing.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://cartelhax.com/lib/jquery/jquery-migrate.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\jquery\jquery-migrate.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/superfish/hoverIntent.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\superfish\hoverIntent.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/superfish/superfish.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\superfish\superfish.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/venobox/venobox.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\venobox\venobox.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/lib/venobox/venobox.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\venobox\venobox.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\lib\wow\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/panel/css/style.default.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\css\style.default.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/panel/img/bg.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\img\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/panel/img/favicon.ico
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\img\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://cartelhax.com/panel/login.php
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\login.php.html
+Content Type: text/html
+
+Uri: https://cartelhax.com/panel/registro.php
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\registro.php.html
+Content Type: text/html
+
+Uri: https://cartelhax.com/panel/static/css/style.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\css\style.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/panel/static/img/20.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\img\20.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/panel/static/img/app.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\img\app.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/panel/static/img/particles.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\img\particles.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/panel/static/img/stats.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\img\stats.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/panel/static/img/styles.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\static\img\styles.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/panel/vendor/choices.js/public/assets/styles/choices.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\panel\vendor\choices.js\public\assets\styles\choices.min.css
+Content Type: text/css
+
+Uri: https://cartelhax.com/static_assets/449fc14.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\449fc14.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/static_assets/72f0885.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\72f0885.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/static_assets/9b881f5.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\9b881f5.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/static_assets/img/advantage-underline.01e4eee.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\advantage-underline.01e4eee.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/static_assets/img/buy-label.595d65d.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\buy-label.595d65d.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/static_assets/img/buy-underline.bb8e533.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\buy-underline.bb8e533.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/static_assets/img/circle.54601de.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\circle.54601de.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/static_assets/img/footer-bg.2009680.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\footer-bg.2009680.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/static_assets/img/glow-line.8fa244e.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\glow-line.8fa244e.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/static_assets/img/header-background.80f4319.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\static_assets\img\header-background.80f4319.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/video-banner/100.jpeg
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\100.jpeg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/video-banner/ak.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\ak.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/video-banner/farling.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\farling.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/video-banner/faviak.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\faviak.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/video-banner/fortnite.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\fortnite.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/video-banner/instagram.webp
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\instagram.webp
+Content Type: image/webp
+
+Uri: https://cartelhax.com/video-banner/wolfteam.jpg
+File Name: C:\Downloaded Web Sites\cartelhax.com\video-banner\wolfteam.jpg
+Content Type: image/jpeg
+
+Uri: https://cartelhax.com/_nuxt/73f1ea3.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\73f1ea3.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/_nuxt/cc4af5d.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\cc4af5d.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/_nuxt/f5ec680.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\f5ec680.js
+Content Type: application/x-javascript
+
+Uri: https://cartelhax.com/_nuxt/fonts/Audiowide-Regular.1ae7128.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\fonts\Audiowide-Regular.1ae7128.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/_nuxt/fonts/DaysOne-Regular.7ef5823.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\fonts\DaysOne-Regular.7ef5823.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/_nuxt/fonts/Lato-Bold.21b3848.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\fonts\Lato-Bold.21b3848.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/_nuxt/fonts/Lato-Medium.a071abb.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\fonts\Lato-Medium.a071abb.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/_nuxt/fonts/Lato-Regular.75614cf.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\fonts\Lato-Regular.75614cf.woff2
+Content Type: font/woff2
+
+Uri: https://cartelhax.com/_nuxt/img/buy-bg.4d392fe.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\buy-bg.4d392fe.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/_nuxt/img/crown.1948b3f.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\crown.1948b3f.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/_nuxt/img/drag-button.5478000.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\drag-button.5478000.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/_nuxt/img/enjoy-bottom-lines.bbfa38e.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\enjoy-bottom-lines.bbfa38e.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/_nuxt/img/enjoy-top-lines.5f1fc64.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\enjoy-top-lines.5f1fc64.png
+Content Type: image/png
+
+Uri: https://cartelhax.com/_nuxt/img/help-outline.ba21649.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\help-outline.ba21649.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/_nuxt/img/list-tip.0e0904b.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\list-tip.0e0904b.svg
+Content Type: image/svg+xml
+
+Uri: https://cartelhax.com/_nuxt/img/popover-right.36d08d2.svg
+File Name: C:\Downloaded Web Sites\cartelhax.com\_nuxt\img\popover-right.36d08d2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.discordapp.com/attachments/1002033660947603639/1011502109054746656/Updated.png?size=4096
+File Name: C:\Downloaded Web Sites\cartelhax.com\attachments\1002033660947603639\1011502109054746656\Updated.png
+Content Type: image/png
+
+Uri: https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\npm\notyf@3\notyf.min.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/notyf@3/notyf.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\npm\notyf@3\notyf.min.js
+Content Type: application/javascript
+
+Uri: https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js
+File Name: C:\Downloaded Web Sites\cartelhax.com\particles.js\2.0.0\particles.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\cartelhax.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\cartelhax.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Muli:300,400,700
+File Name: C:\Downloaded Web Sites\cartelhax.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:300&display=swap
+File Name: C:\Downloaded Web Sites\cartelhax.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Uw-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu170w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Ew-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr70w-.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFkpl0k30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFmQkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/muli/v28/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\muli\v28\7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30e0.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v25/XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\nunito\v25\XRXI3I6Li01BKofiOc5wtlZ2di8HDOUhdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://media.discordapp.net/attachments/1053854019744977007/1119245126078844958/Sin_titulo.png
+File Name: C:\Downloaded Web Sites\cartelhax.com\attachments\1053854019744977007\1119245126078844958\Sin_titulo.png
+Content Type: image/png
+
+Uri: https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\css\boxicons.min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.eot
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\fonts\boxicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.svg?
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\fonts\boxicons.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.ttf
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\fonts\boxicons.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.woff
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\fonts\boxicons.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/boxicons@2.1.1/fonts/boxicons.woff2
+File Name: C:\Downloaded Web Sites\cartelhax.com\boxicons@2.1.1\fonts\boxicons.woff2
+Content Type: font/woff2
+
