@@ -1,4 +1,4 @@
-::                                                   by elsrt_alex#1014
+::                                                   by @dopa7hacks
 @shift /0
 :: Variables
 set RULE_NAME=TemporaryBlock1
@@ -43,5 +43,5 @@ set PROGRAM=C:\Program Files (x86)\SmartGaGa\ProjectTitan\Engine\ProjectTitan.ex
 netsh advfirewall firewall add rule name="TemporaryBlock4" dir=in action=block profile=any program="%PROGRAM%"
 netsh advfirewall firewall add rule name="TemporaryBlock4" dir=out action=block profile=any program="%PROGRAM%"
 
-::                                                     by elsrt_alex#1014
+::                                                     by @dopa7hacks
 
